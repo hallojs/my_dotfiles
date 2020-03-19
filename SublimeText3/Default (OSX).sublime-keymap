@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+shift+d"], "command": "auto_docstring" },
+  { "keys": ["super+alt+shift+d"], "command": "auto_docstring_all" }
+]

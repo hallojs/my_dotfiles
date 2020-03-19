@@ -1,0 +1,29 @@
+{
+	/*Style Guide for Python Code*/
+	"pep8_ignore":
+	  [
+	  		/*E309: Is ignored by default as it conflicts with pep257 E211*/
+	      "E309",
+	      /*E111: Code indentation must be a multiple of four*/
+	      "E111",
+	      /*E114: Comment indentation must be a multiple of four.*/
+	      "E114"
+	  ],
+
+	/*Conventions for Docstrings*/
+	"pep257": true,
+
+	"pep257_ignore":
+	  [
+	  		/*D203: 1 blank line before class docstring is ignored by default, as
+	      this rule has been deprecated.*/
+	      "D203",
+	      /*D209: Multi-line docstring should end with 1 blank line is ignored by
+	      default as this rule has been deprecated.*/
+	      "D209",
+	      /*D123: Multi-line docstring summary should start at the second line.
+	      Conflicts with D112: Multi-line docstring summary should start at the
+	      first line.*/
+	      "D213"
+	  ]
+}
