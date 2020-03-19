@@ -24,6 +24,8 @@
 	      /*D123: Multi-line docstring summary should start at the second line.
 	      Conflicts with D112: Multi-line docstring summary should start at the
 	      first line.*/
-	      "D213"
-	  ]
+	      "D213",
+	      /*D413: Missing blank line after last section*/
+	      "D413"
+	  ],
 }
