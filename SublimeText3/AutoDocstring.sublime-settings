@@ -1,0 +1,10 @@
+{
+	/*can be “google”, “numpy”, or “auto” for auto-detection based on the other
+	docstrings in the module. A fallback can be specified with something like
+	“auto_google” in case auto-detection fails.*/
+	"style": "numpy",
+	/*If true, then insert a snippet so that you can tab through newly inserted
+	fields (Summary / Types / Desciptions). Causes that numpy style adds
+	whitespace on blank lines / PEP8 W293, if set to true.*/
+	"use_snippet": false
+}
