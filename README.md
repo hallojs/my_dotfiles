@@ -2,6 +2,9 @@
 
 This repository is intended as a simple backup for my dot files.
 
+## Homebrew
+* homebrew.sh: install all my hombrew apps.
+
 ## Sublime Text 3
 * Preferences.sublime-settings: My sublime settings.
 * Package Control.sublime-settings: My settings for the package control.
