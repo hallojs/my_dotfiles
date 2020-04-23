@@ -23,5 +23,8 @@ brew install python3
 # windows alt-tab on macOS (i.e. switch between windows, not apps)
 brew cask install alt-tab
 
+# a ultra-light macOS utility that helps hide menu bar icons
+brew cask install hiddenbar
+
 # remove outdated stuff
 brew cleanup
