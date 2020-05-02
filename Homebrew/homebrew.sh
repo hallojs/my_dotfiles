@@ -26,5 +26,8 @@ brew cask install alt-tab
 # a ultra-light macOS utility that helps hide menu bar icons
 brew cask install hiddenbar
 
+# etcher is a powerful OS image flasher
+brew cask install balenaetcher
+
 # remove outdated stuff
 brew cleanup
