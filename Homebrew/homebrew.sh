@@ -29,5 +29,8 @@ brew cask install hiddenbar
 # etcher is a powerful OS image flasher
 brew cask install balenaetcher
 
+# oracle jdk
+brew cask install oracle-jdk
+
 # remove outdated stuff
 brew cleanup
