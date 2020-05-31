@@ -11,6 +11,10 @@
 		"Dockerfile Syntax Highlighting",
 		"NASM x86 Assembly",
 		"Package Control",
-		"SML (Standard ML)"
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SML (Standard ML)",
+		"sublimelint",
+		"SublimeLinter-tslint"
 	]
 }
