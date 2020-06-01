@@ -20,6 +20,9 @@ brew install diff-pdf
 # interpreted, interactive, object-oriented programming language
 brew install python3
 
+# iTerm2 is a terminal emulator for Mac OS X that does amazing things
+brew cask install iterm2
+
 # windows alt-tab on macOS (i.e. switch between windows, not apps)
 brew cask install alt-tab
 

@@ -14,3 +14,7 @@ This repository is intended as a simple backup for my dot files.
 
 * Anaconda.sublime-settings: Settings for the [anaconde package](https://github.com/DamnWidget/anaconda) which turns the editor into a python IDE.
 * AutoDocString.sublime-settings: Settings for the [autodocstring package](https://github.com/KristoforMaynard/SublimeAutoDocstring) which generates templates for your python docstrings.
+
+## iTerm2
+* com.googlecode.iterm2.plist: My iTerm2 settings.
+* Jonas.json: Mein iTerm2 profile.
