@@ -17,4 +17,4 @@ This repository is intended as a simple backup for my dot files.
 
 ## iTerm2
 * com.googlecode.iterm2.plist: My iTerm2 settings.
-* Jonas.json: Mein iTerm2 profile.
+* Jonas.json: My iTerm2 profile.
