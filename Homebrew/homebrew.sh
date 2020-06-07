@@ -40,3 +40,6 @@ brew cask install oracle-jdk
 
 # remove outdated stuff
 brew cleanup
+
+# pyenv lets you easily switch between multiple versions of Python.
+echo "To install pyenv see GitHub project page"
