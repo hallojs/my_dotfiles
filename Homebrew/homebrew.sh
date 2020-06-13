@@ -20,7 +20,7 @@ brew install diff-pdf
 # interpreted, interactive, object-oriented programming language
 brew install python3
 
-# iTerm2 is a terminal emulator for Mac OS X that does amazing things
+# iTerm2 is a terminal emulator for macOS that does amazing things
 brew cask install iterm2
 
 # windows alt-tab on macOS (i.e. switch between windows, not apps)
@@ -38,8 +38,14 @@ brew cask install balenaetcher
 # oracle jdk
 brew cask install oracle-jdk
 
+# whatsapp desktop client
+brew cask install whatsapp
+
+# slack desktop client
+brew cask install slack
+
 # remove outdated stuff
 brew cleanup
 
-# pyenv lets you easily switch between multiple versions of Python.
+# pyenv lets you easily switch between multiple versions of Python
 echo "To install pyenv see GitHub project page"
