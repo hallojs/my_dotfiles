@@ -7,7 +7,10 @@
 	      /*E111: Code indentation must be a multiple of four*/
 	      "E111",
 	      /*E114: Comment indentation must be a multiple of four.*/
-	      "E114"
+	      "E114",
+	      /*W503 Line breaks should occur after the binary operator to keep all
+	      variable names aligned. Conflicts with W504.*/
+	      "W503"
 	  ],
 
 	/*Conventions for Docstrings*/
