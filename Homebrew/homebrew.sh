@@ -32,6 +32,9 @@ brew cask install rectangle
 # a ultra-light macOS utility that helps hide menu bar icons
 brew cask install hiddenbar
 
+# a simple macOS system monitor in your menu bar
+brew cask install stats
+
 # etcher is a powerful OS image flasher
 brew cask install balenaetcher
 
