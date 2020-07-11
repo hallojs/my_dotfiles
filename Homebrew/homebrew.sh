@@ -35,6 +35,9 @@ brew cask install hiddenbar
 # a simple macOS system monitor in your menu bar
 brew cask install stats
 
+# a dimness and night shift menu bar app
+brew cask install joshjon-nocturnal
+
 # etcher is a powerful OS image flasher
 brew cask install balenaetcher
 
