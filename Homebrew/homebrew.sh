@@ -50,6 +50,12 @@ brew cask install whatsapp
 # slack desktop client
 brew cask install slack
 
+# my favourite latex editor
+brew cask install texpad
+
+# my backup latex editor
+brew cask install texstudio
+
 # pgf/TikZ diagram editor
 brew cask install tikzit
 
