@@ -50,6 +50,9 @@ brew cask install whatsapp
 # slack desktop client
 brew cask install slack
 
+# pgf/TikZ diagram editor
+brew cask install tikzit
+
 # remove outdated stuff
 brew cleanup
 
