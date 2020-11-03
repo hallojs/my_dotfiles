@@ -14,6 +14,9 @@ brew install git
 # improved top (interactive process viewer)
 brew install htop
 
+# open-source version of the X.Org X window system
+brew cask install xquartz
+
 # visually compare two PDF files
 brew install diff-pdf
 
@@ -58,6 +61,18 @@ brew cask install texstudio
 
 # pgf/TikZ diagram editor
 brew cask install tikzit
+
+# text editor for code, markup and prose
+brew cask install sublime-text
+
+# free and open-source ide for python programming - community edition
+brew cask install pycharm-ce
+
+# password and credentials mananger
+brew cask install enpass
+
+# the world of music
+brew cask install spotify
 
 # remove outdated stuff
 brew cleanup
