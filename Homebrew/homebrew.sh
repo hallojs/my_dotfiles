@@ -101,6 +101,12 @@ brew cask install appcleaner
 # a heay internet browser that eats all your ram
 brew cask install google-chrome
 
+# multi-language programming editor
+brew cask install coderunner
+
+# utility to provide quick look previews for files that aren't natively supported
+brew cask install glance
+
 # remove outdated stuff
 brew cleanup
 
