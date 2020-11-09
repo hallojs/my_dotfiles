@@ -20,6 +20,9 @@ brew cask install osxfuse
 # file system client based on ssh file transfer protocol
 brew install sshfs
 
+# internet file retriever
+brew install wget
+
 # open-source version of the X.Org X window system
 brew cask install xquartz
 
@@ -62,6 +65,9 @@ brew cask install whatsapp
 # slack desktop client
 brew cask install slack
 
+# full tex live distribution with gui applications
+brew cask install mactex
+
 # my favourite latex editor
 brew cask install texpad
 
@@ -101,14 +107,33 @@ brew cask install appcleaner
 # a heay internet browser that eats all your ram
 brew cask install google-chrome
 
+# cross-platform web browser with a free vpn
+brew cask install opera
+
+# web browser focusing on security
+brew cask install tor-browser
+
+# sync extension for google drive
+brew cask install google-backup-and-sync
+
 # multi-language programming editor
 brew cask install coderunner
 
 # utility to provide quick look previews for files that aren't natively supported
 brew cask install glance
 
+# open-source cross-platform multimedia player
+brew cask install vlc
+
+# video and audio player
+brew cask install elmedia-player
+
+# free and open-source media player
+brew cask install 
+
 # remove outdated stuff
 brew cleanup
 
 # pyenv lets you easily switch between multiple versions of Python
 echo "To install pyenv see GitHub project page"
+echo "Also install pyenv-virtualenv"
