@@ -128,6 +128,12 @@ brew cask install vlc
 # video and audio player
 brew cask install elmedia-player
 
+# video chat, voice call and instant messaging application
+brew cask install skype
+
+# remote access and connectivity software focused on security
+brew cask install teamviewer
+
 # free and open-source media player
 brew cask install 
 
