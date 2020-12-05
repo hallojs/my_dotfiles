@@ -9,7 +9,7 @@ This repository is intended as a simple backup for my dot files.
 * Preferences.sublime-settings: My sublime settings.
 * Package Control.sublime-settings: My settings for the package control.
 * Default (OSX).sublime-keymap: My shortcut settings for sublime.
-* Markdown.sublime-settings: My setting for using makdown in sublime.
+* Markdown.sublime-settings: My setting for using markdown in sublime.
 
 
 * Anaconda.sublime-settings: Settings for the [anaconde package](https://github.com/DamnWidget/anaconda) which turns the editor into a python IDE.
