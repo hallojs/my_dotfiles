@@ -120,7 +120,10 @@ brew install --cask google-backup-and-sync
 brew install --cask coderunner
 
 # utility to provide quick look previews for files that aren't natively supported
-brew install --cask glance
+#brew install --cask glance  # seems not to work anymore :( use the following utility instead
+
+# utility to render Jupyter notebooks
+brew install --cask jupyter-notebook-viewer
 
 # open-source cross-platform multimedia player
 brew install --cask vlc
