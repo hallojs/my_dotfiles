@@ -98,6 +98,10 @@ brew install --cask spotify
 # powerful note-takin app
 brew install --cask evernote
 
+# pdf reader, editor and annotator
+# do not forget to deactivate metal in the app setting to prevent improper ram usage
+brew install --cask pdf-expert
+
 # a vpn client
 brew install --cask tunnelblick
 
