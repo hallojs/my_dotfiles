@@ -147,6 +147,10 @@ brew install --cask teamviewer
 # free and open-source media player
 brew install --cask iina
 
+#free and opensource download manager
+brew install --cask jdownloader
+
+
 # remove outdated stuff
 brew cleanup
 
